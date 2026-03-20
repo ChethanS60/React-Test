@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+  <title>React Chat Widget</title>
+  <description>A real-time chat widget for the 3DEXPERIENCE platform built with React.</description>
+  <version>1.0.0</version>
+  <vendor>Sopra Steria</vendor>
+  <keywords>chat, messaging, collaboration, react</keywords>
+  <preferredWidth>420</preferredWidth>
+  <preferredHeight>600</preferredHeight>
+  <thumbnail>thumbnail.png</thumbnail>
+  <category>Collaboration</category>
+  <scripts>
+    <startfile>index.html</startfile>
+  </scripts>
+  <preferences>
+    <preference name="username" label="Username" type="text" defaultValue="User" />
+    <preference name="theme" label="Theme" type="list" defaultValue="light">
+      <option label="Light" value="light" />
+      <option label="Dark" value="dark" />
+    </preference>
+    <preference name="maxMessages" label="Max Messages Displayed" type="integer" defaultValue="50" />
+  </preferences>
+</widget>
