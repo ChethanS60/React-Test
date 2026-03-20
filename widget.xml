@@ -7,10 +7,10 @@
   <keywords>chat, messaging, collaboration, react</keywords>
   <preferredWidth>420</preferredWidth>
   <preferredHeight>600</preferredHeight>
-  <thumbnail>thumbnail.png</thumbnail>
+  <thumbnail>favicon.svg</thumbnail>
   <category>Collaboration</category>
   <scripts>
-    <startfile>index.html</startfile>
+    <startfile>./index.html</startfile>
   </scripts>
   <preferences>
     <preference name="username" label="Username" type="text" defaultValue="User" />
