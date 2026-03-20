@@ -1,0 +1,22 @@
+{
+  "title": "React Chat Widget Help",
+  "description": "This widget provides a simple real-time chat interface inside 3DEXPERIENCE.",
+  "sections": [
+    {
+      "heading": "Getting Started",
+      "items": [
+        "Open the widget from your dashboard.",
+        "Enter a message in the input box.",
+        "Press Enter or click Send to post your message."
+      ]
+    },
+    {
+      "heading": "Preferences",
+      "items": [
+        "Username: display name used in chat messages.",
+        "Theme: select Light or Dark mode.",
+        "Max Messages: number of messages kept in the list."
+      ]
+    }
+  ]
+}
