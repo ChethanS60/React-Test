@@ -10,7 +10,7 @@
   <thumbnail>favicon.svg</thumbnail>
   <category>Collaboration</category>
   <scripts>
-    <startfile>./index.html</startfile>
+    <startfile>./index-3dx.html</startfile>
   </scripts>
   <preferences>
     <preference name="username" label="Username" type="text" defaultValue="User" />
