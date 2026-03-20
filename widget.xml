@@ -2,7 +2,7 @@
 <widget>
   <title>React Chat Widget</title>
   <description>A real-time chat widget for the 3DEXPERIENCE platform built with React.</description>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <vendor>Sopra Steria</vendor>
   <keywords>chat, messaging, collaboration, react</keywords>
   <preferredWidth>420</preferredWidth>
